@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ND\\Desktop\\test\\DNGuard Static Unpacker\\DNGuard Static Unpacker.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ND\\Desktop\\test\\DNGuard Static Unpacker\\DNGuard Static Unpacker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ND\\Desktop\\test\\DNGuard Static Unpacker\\DNGuard Static Unpacker.csproj",
+        "projectName": "DNGuard Static Unpacker",
+        "projectPath": "C:\\Users\\ND\\Desktop\\test\\DNGuard Static Unpacker\\DNGuard Static Unpacker.csproj",
+        "packagesPath": "C:\\Users\\ND\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ND\\Desktop\\test\\DNGuard Static Unpacker\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ND\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net40"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net40": {
+            "framework": "net40",
+            "targetAlias": "net40",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net40": {
+          "framework": "net40",
+          "targetAlias": "net40",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

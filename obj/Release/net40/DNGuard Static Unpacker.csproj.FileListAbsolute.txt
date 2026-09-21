@@ -1,0 +1,3 @@
+C:\Users\ND\Desktop\test\DNGuard Static Unpacker\obj\Release\net40\DNGuard Static Unpacker.csproj.AssemblyReference.cache
+C:\Users\ND\Desktop\test\DNGuard Static Unpacker\obj\Release\net40\DNGuard Static Unpacker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ND\Desktop\test\DNGuard Static Unpacker\obj\Release\net40\DNGuard Static Unpacker.csproj.CoreCompileInputs.cache

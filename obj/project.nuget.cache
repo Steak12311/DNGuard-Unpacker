@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XZT1IMDFfY4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ND\\Desktop\\test\\DNGuard Static Unpacker\\DNGuard Static Unpacker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ND\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\ND\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net40\\1.0.3\\microsoft.netframework.referenceassemblies.net40.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\Users\ND\Desktop\test\DNGuard Static Unpacker\obj\Debug\net40\DNGuard Static Unpacker.csproj.AssemblyReference.cache
+C:\Users\ND\Desktop\test\DNGuard Static Unpacker\obj\Debug\net40\DNGuard Static Unpacker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ND\Desktop\test\DNGuard Static Unpacker\obj\Debug\net40\DNGuard Static Unpacker.csproj.CoreCompileInputs.cache
+C:\Users\ND\Desktop\test\DNGuard Static Unpacker\bin\Debug\net40\DNGuard Static Unpacker.exe.config
+C:\Users\ND\Desktop\test\DNGuard Static Unpacker\bin\Debug\net40\DNGuard Static Unpacker.exe
+C:\Users\ND\Desktop\test\DNGuard Static Unpacker\bin\Debug\net40\DNGuard Static Unpacker.pdb
+C:\Users\ND\Desktop\test\DNGuard Static Unpacker\bin\Debug\net40\dnlib.dll
+C:\Users\ND\Desktop\test\DNGuard Static Unpacker\obj\Debug\net40\DNGuard .4D737412.Up2Date
+C:\Users\ND\Desktop\test\DNGuard Static Unpacker\obj\Debug\net40\DNGuard Static Unpacker.exe
+C:\Users\ND\Desktop\test\DNGuard Static Unpacker\obj\Debug\net40\DNGuard Static Unpacker.pdb
