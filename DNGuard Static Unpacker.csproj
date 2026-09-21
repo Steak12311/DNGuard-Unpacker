@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <ProjectGuid>{9F0FCAEE-8329-42AB-A39D-386B412FC90E}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>DNGuard_Unpacker</RootNamespace>
+    <AssemblyName>DNGuard Static Unpacker</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <FileAlignment>4096</FileAlignment>
+    <TargetFramework>net40</TargetFramework>
+    <Platforms>AnyCPU;x64</Platforms>
+    <ResolveAssemblyReferenceIgnoreTargetFrameworkAttributeVersionMismatch>true</ResolveAssemblyReferenceIgnoreTargetFrameworkAttributeVersionMismatch>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <EnableDefaultItems>False</EnableDefaultItems>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <StartupObject>DNGuard_Unpacker.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Adler32.cs" />
+    <Compile Include="Blowfish.cs" />
+    <Compile Include="Compressor.cs" />
+    <Compile Include="ContainerExtractor.cs" />
+    <Compile Include="DNGDecrypter.cs" />
+    <Compile Include="IDecrypter.cs" />
+    <Compile Include="InvalidMethodsFinder.cs" />
+    <Compile Include="LZAri.cs" />
+    <Compile Include="MethodReader.cs" />
+    <Compile Include="MethodsDecrypter.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StringDecrypter.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="dnlib">
+      <HintPath>..\..\dnSpy-netframework\bin\dnlib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="app.manifest" />
+  </ItemGroup>
+</Project>
